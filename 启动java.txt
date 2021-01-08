@@ -1,5 +1,0 @@
-C:\Users\安晓虎>d:
-
-D:\>cd code
-
-D:\code>java -jar iot-exhibition-1.0-SNAPSHOT.jar
